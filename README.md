@@ -50,9 +50,3 @@ Pınar Mahallesi 4.876
 En Uygun Güzergah: Karacaibrahim Mahallesi
 ```  
 
-## 📌 Lisans  
-Bu proje MIT lisansı altındadır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.  
-
----
-
-Bunu GitHub'daki `README.md` dosyan olarak kaydedebilirsin! 😊
