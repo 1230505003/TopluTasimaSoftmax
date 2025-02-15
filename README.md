@@ -1,6 +1,5 @@
-# TopluTasimaSoftmaxŞu şekilde bir README dosyası oluşturabilirsin:  
 
----
+
 
 # 🚍 Toplu Taşıma Güzergah Belirleme  
 
